@@ -1,0 +1,1 @@
+{"version":3,"sources":[""],"sourcesContent":["(function(_){for(var r in _){_[r].__farm_resource_pot__='file://'+__filename;(globalThis || window || global)['f081367f80fe14896375a9f8b8918ca3'].__farm_module_system__.register(r,_[r])}})({\"1fbb4193\":function  (e,b,n,s){new(n(\"aa764c60\",!0).verbose()).Database(\"mydatabase.db\");},});"],"names":[],"mappings":"6EAAA"}
